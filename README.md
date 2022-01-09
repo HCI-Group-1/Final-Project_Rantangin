@@ -60,4 +60,3 @@ Dengan fitur sebagai berikut:
 2. Katalog pesanan
 3. keranjang
 4. pemesanan
-
