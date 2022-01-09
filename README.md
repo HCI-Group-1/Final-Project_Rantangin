@@ -17,10 +17,6 @@ https://youtu.be/OyMeR6feKpE
 ## 🎥 app demonstration video
 https://youtu.be/dv39jc09gXY  
 
-## Backend Development Repo
-https://github.com/HCI-Group-1/rantangin-dev
-
-
 # Deskripsi Project
 Rantangin adalah sebuah Branding dari startup yang bergerak dibidang jasa penyedia 
 makanan berbasis online dengan menargetkan para perantau atau mahasiswa yang memiliki 
