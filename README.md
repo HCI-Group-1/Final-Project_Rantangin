@@ -11,4 +11,4 @@ Rantangin adalah sebuah Branding dari startup yang bergerak dibidang jasa penyed
 https://rantangin.herokuapp.com
 
 # Current Progres
-Pada sprint ini kami membuat site identity dan text narration dan pada sprint imi juga kami memperbiki bagian Home Page
+Pada sprint ini kami membuat site identity dan text narration dan pada sprint ini juga kami berusaha memperbaiki bagian Home Page
